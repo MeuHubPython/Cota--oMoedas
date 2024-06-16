@@ -6,10 +6,10 @@ Conversor de moedas para o Real
 
 Moedas suportadas até o momento:
 
-*- Dólar
+- Dólar
 
-*- Euro
+- Euro
 
-*- Libra
+- Libra
 
-Executável do programa no diretório dist.
+Executável do programa no diretório [link](https://github.com/MeuHubPython/CotacaoMoedas/blob/master/dist/ConversorDeMoedas.exe)

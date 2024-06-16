@@ -1,6 +1,6 @@
 # COTAÇÃO DE MOEDAS
 
-## Primeiro projeto pessoal!
+## Primeiro projeto pessoal
 
 Programa para verificação dos valores das moedas em tempo real (valor do dia).
 

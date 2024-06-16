@@ -2,8 +2,12 @@
 
 ## Primeiro projeto pessoal
 
-Programa para verificação dos valores das moedas em tempo real (valor do dia).
+Conversor de moedas para o Real
 
-O programa também efetua a conversão das moedas suportadas (Euro, Dólar, Libra) para Real.
+Moedas suportadas até o momento:
 
-Executável do programa incluso.
+*- Dólar
+*- Euro
+*- Libra
+
+Executável do programa no diretório dist.

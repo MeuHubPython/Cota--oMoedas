@@ -1,5 +1,15 @@
 # COTAÇÃO DE MOEDAS
 
-Programa para verificação dos valores das moedas em tempo real (valor do dia).
+## Primeiro projeto pessoal
 
-O programa também efetua a conversão das moedas suportadas (Euro, Dólar, Libra) para Real.
+Conversor de moedas para o Real
+
+Moedas suportadas até o momento:
+
+- Dólar
+
+- Euro
+
+- Libra
+
+Executável do programa no [diretório](https://github.com/MeuHubPython/CotacaoMoedas/blob/master/dist/ConversorDeMoedas.exe)

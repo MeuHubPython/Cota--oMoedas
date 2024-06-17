@@ -12,4 +12,4 @@ Moedas suportadas até o momento:
 
 - Libra
 
-Executável do programa no [diretório](https://github.com/MeuHubPython/CotacaoMoedas/blob/master/dist/ConversorDeMoedas.exe)
+Executável do programa no [diretório](https://github.com/MeuHubPython/CotacaoMoedas/blob/master/dist/)

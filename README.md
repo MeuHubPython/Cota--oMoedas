@@ -11,5 +11,3 @@ Moedas suportadas até o momento:
 - Euro
 
 - Libra
-
-Executável do programa no [diretório](https://github.com/MeuHubPython/CotacaoMoedas/blob/master/dist/)
